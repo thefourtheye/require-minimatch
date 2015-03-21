@@ -1,0 +1,18 @@
+{
+  "author": "thefourtheye",
+  "name": "require-minimatch",
+  "description": "Simple script which extends the functionality of require with minimatch style path matching",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thefourtheye/require-minimatch.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^5.0.3"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "GNU GENERAL PUBLIC LICENSE Version 2"
+}
