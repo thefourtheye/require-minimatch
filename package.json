@@ -9,7 +9,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "glob": "^6.0.4"
+    "glob": "^7.0.0"
   },
   "engines": {
     "node": "*"
