@@ -12,7 +12,7 @@
     "glob": "^7.1.1"
   },
   "engines": {
-    "node": "*"
+    "node": ">= 4"
   },
   "license": "GNU GENERAL PUBLIC LICENSE Version 2"
 }
